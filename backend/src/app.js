@@ -9,7 +9,7 @@ var listening = (portNum) => {
     let answerArr = [];
     const localObject = {
         first: {
-            number: 17
+            number: 17,
         },
         second: {
             number: -35.8
